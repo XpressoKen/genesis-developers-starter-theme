@@ -21,7 +21,7 @@ This child theme requires the following dependencies:
 
 ## Customization
 
-### Configuration
+## Configuration
 
 ## Installation
 

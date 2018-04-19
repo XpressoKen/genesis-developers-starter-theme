@@ -1,37 +1,5 @@
 //
 // Breakpoints
-//
-//=========================
-
-////
-/// @group variables
-/// @author WebDevStudios
-////
-
-/// Larger HD Desktops.
-$desktop-large: 1800px;
-
-/// Standard Desktops and Larger Laptops.
-$desktop: 1200px;
-
-/// Smaller Desktops and Standard iPad Tablet.
-$tablet-landscape: 900px;
-
-/// Breakpoint for WP Admin Bar.
-$wp-admin-bar: 783px;
-
-/// Smaller Tablets and Standard iPad Portrait.
-$tablet-portrait: 600px;
-
-/// Phones Smaller Than 500px in Width.
-$phone: 300px;
+//==============================
 
 
-// Global Screen Sizes
-//------------------------------------------------------------------------------
-$smallest-screen: $max-width - 820px; // 320px;
-$smaller-screen: $max-width - 660px; // 480px;
-$small-screen: $max-width - 380px; // 760px;
-$medium-screen: $max-width - 117px; // 1023px
-$large-screen: $max-width + 40px; // 1180px
-$huge-screen: $max-width + 460px; // 1600px

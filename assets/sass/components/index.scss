@@ -4,13 +4,15 @@
 
 @import "avatar";
 @import "buttons";
-@import "accessibility/index.scss";
-@import "author-box/index.scss";
-@import "comments/index.scss";
-@import "content/index.scss";
-@import "footer/index.scss";
-@import "header/index.scss";
-@import "navigation/index.scss";
-@import "navigation/index.scss";
+@import "accessibility/index";
+
+@import "header/index";
+@import "navigation/index";
+@import "content/index";
+@import "after-entry/index";
+@import "author-box/index";
+@import "comments/index";
+@import "sidebars/index";
 @import "widgets/index";
+@import "footer/index";
  

@@ -2,7 +2,7 @@
 .entry-footer {
     .entry-meta {
         margin-bottom: 24px;
-        //font-size: rem( $entryMeta__Header__FontSize );
+        //@include rem( font-size, $entry-header__entry-meta--font-size );
     }        
 }
 

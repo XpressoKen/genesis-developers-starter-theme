@@ -1,3 +1,4 @@
+
 html {
     font-size: $html--font-size; /* 10px browser default */
   }
@@ -6,7 +7,7 @@ html {
     background-color: $body--background-color;
     color: $base__color;
     font-family: $base--font-family;
-    @include rem( font-size, $base--font-size );
+    @include rem( font-size,  $base--font-size );
     -webkit-font-smoothing: antialiased;
     font-weight: 400;
     line-height: $base--line-height;

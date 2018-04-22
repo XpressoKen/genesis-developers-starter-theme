@@ -1,0 +1,30 @@
+{
+  "name": "developers",
+  "version": "1.0.0",
+  "description": "This is a developer-friendly starter child theme for the Genesis theming framework which includes a modular architecture, Sass, gulp, Bourbon, Neat, and Composer.",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clguitar1/genesis-developers-starter-theme.git"
+  },
+  "author": "Charles",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/clguitar1/genesis-developers-starter-theme/issues"
+  },
+  "homepage": "https://github.com/clguitar1/genesis-developers-starter-theme#readme",
+  "devDependencies": {
+    "bourbon": "^5.0.0",
+    "bourbon-neat": "^1.9.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "sass-rem": "^2.0.1"
+  }
+}

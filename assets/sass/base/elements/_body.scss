@@ -7,12 +7,12 @@ html {
     background-color: $body--background-color;
     color: $base__color;
     font-family: $base--font-family;
-    @include rem( font-size,  $base--font-size );
+    @include rem( font-size, $base--font-size );
     -webkit-font-smoothing: antialiased;
     font-weight: 400;
     line-height: $base--line-height;
     margin: 0;
-  
+   
      @include media( $breakpoint__screen-size--small ) {
       font-size: $base--font-size--small-screen;
     }

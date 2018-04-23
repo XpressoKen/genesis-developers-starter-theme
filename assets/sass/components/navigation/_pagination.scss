@@ -30,7 +30,7 @@
 		color: $archive-pagination--color;
 		cursor: pointer;
 		display: inline-block;
-		@include rem( font-size,  $archive-pagination--font-size );
+		@include rem( font-size, $archive-pagination--font-size );
 		font-size: 1.6rem;
 		font-weight: 600;
 		padding: 8px 12px;
